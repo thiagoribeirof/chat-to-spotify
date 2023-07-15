@@ -1,0 +1,11 @@
+<link rel="stylesheet" href="{{ url_for('static', filename= 'css_searchsong.css') }}">
+<div class="login">
+	<h1>Create playlists typing anything.<br>Really.</h1>
+    <h5>Create a playlist with...</h5>
+    <form method="post">
+        <input type="text" id="prompt" name="prompt" placeholder="e.g: 'about cats'">
+        <h5>give the playlist a name</h5>  
+        <input type="text" id="playlist_name" name="playlist_name" placeholder="e.g: 'cute cats playlist'">
+        <button type="submit" class="btn btn-primary btn-block btn-large">Create Playlist !</button>
+    </form>
+</div>
