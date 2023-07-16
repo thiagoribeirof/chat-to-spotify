@@ -16,9 +16,20 @@ This script has a simple, but useful function: take the user's prompt (command, 
 I won't go through all of the code nor explanation. But there are some important steps to take before running the script. Those are:
 
 <ul>
-<li><h2>Getting Spotify Credentials</h3></li>
+<li><h2>Getting Spotify API  Credentials</h3></li>
 In order to use Spotify API, you'll need to create an app (a service). First, access https://developer.spotify.com/. Then, hit the "Create app" button. You'll get to the following screen:
 <img src="Screenshot_3.png" alt="Creating spotify app" title="Spotify app">
+
+The 'Redirect URI' whitelists a valid link. In our case, it will redirect to the page where we get some access info, as the oauth object and the token returned from spotify.
+
+<li><h2>Getting Chat GPT API Credentials</h3></li>
+
+Chat GPT API follows the same logic as Spotify. You'll need a chatgpt/openai account in order to create a new secret key. Check https://platform.openai.com/account/api-keys.
+It's important to notice, though, that chatgpt API is a paid feature: it's pricing is listed in https://openai.com/pricing.
+For new users, there is a free credit period. Anyways, the secret key page looks like this: 
+
+<img src="Screenshot_4.png" alt="Chat GPT Key" title="Chat GPT Key">
+
 
 
 </ul>
