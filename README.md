@@ -30,6 +30,14 @@ For new users, there is a free credit period. Anyways, the secret key page looks
 
 <img src="Screenshot_4.png" alt="Chat GPT Key" title="Chat GPT Key">
 
+<li><h2>Other info</h3></li>
+It's important to say that this project is inspired by Jason Goodinson's idea on creating a script to convert Spotify songs to YouTube and download them.
+Since this project has the main goal of serving as a study practice, some parts of the code are similar to Jason Goodinson's videos/tutorials.
+You can watch the video in https://www.youtube.com/watch?v=g6IAGvBZDkE. He also gives a direct explanation on Oauth, an important concept regarding client-api communication.
 
+Feel free to help with a pull request.
+See ya.
+
+<h4><b>Thiago Ribeiro.</b></h4>
 
 </ul>
