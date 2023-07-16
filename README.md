@@ -1,4 +1,4 @@
-<h1>This script has a simple, but useful function: take the user's prompt (command, so to speak) and create a playlist with songs considering the prompt, automatically creating a Spotify playlist with the refered songs.</h1>
+<h2>This script has a simple, but useful function: take the user's prompt (command, so to speak) and create a playlist with songs considering the prompt, automatically creating a Spotify playlist with the refered songs.</h2>
 <br></br>
 <p align="center">
 <i>This is how the page looks like:</i>
